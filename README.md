@@ -1,0 +1,3 @@
+```console
+$ install/install.sh
+```

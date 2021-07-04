@@ -1,0 +1,2 @@
+setopt autopushd
+setopt pushd_ignore_dups
